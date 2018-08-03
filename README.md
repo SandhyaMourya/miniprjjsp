@@ -1,1 +1,2 @@
-# Mining Competetors(Web application)
+# Mining top hotel and mall Competetors(Web application)
+
